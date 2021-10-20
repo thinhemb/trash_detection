@@ -1,0 +1,12 @@
+
+
+
+path: ../yolov5/
+train: data_yolov5/train/images
+val: data_yolov5/val/images
+test: data_yolov5/test/
+
+nc: 6
+
+names: ['Glass','Paper','Metal','Plastic','Battery','Organic']
+
