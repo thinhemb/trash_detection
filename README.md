@@ -5,8 +5,6 @@
 <img style=" dislay:block" width="700px" height="500px" align="left" src="https://github.com/thinhemb/trash_detection/blob/master/results/results.png">
   
 
-<img width="700px" height="500px" align="left" src="https://github.com/thinhemb/trash_detection/blob/master/results/labels.jpg">
-</a>
 <br>
 
 
